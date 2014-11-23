@@ -7,7 +7,7 @@ slideshow.  Sample input is provided in sample.tar.gz.
 ## Usage
 ---
 
-go run main.go <in-file>
+go run main.go in-file
 
 ## Input format
 ---
